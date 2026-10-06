@@ -1,0 +1,7 @@
+print(2+3*4)
+print((2+3)*4)
+print(10-4-3)
+print(10-(4-3))
+print(2*3/4)
+print(2/4*3)
+print(17%5*2)
